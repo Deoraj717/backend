@@ -1,0 +1,15 @@
+{
+  "name": "chai_and_backend",
+  "version": "1.0.0",
+  "description": "first project from 4 ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "backend"
+  ],
+  "author": "sunny",
+  "license": "ISC"
+}
